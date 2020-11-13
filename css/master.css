@@ -1,0 +1,47 @@
+body {
+  background: rgb(255,127,80);
+
+}
+p {
+  display: flex;
+  font-size: 1.80em;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  margin-left: 8em;
+  margin-right: 8em;
+  border-top: 5px solid rgb(255,127,80);
+  border-left: 5px solid rgb(255,127,80);
+  border-right: 5px solid rgb(255,127,80);
+  border-bottom: 5px solid rgb(255,127,80);
+  padding: 2em;
+  justify-content: center;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-size: 6em;
+  margin-bottom: 1em;
+  margin-top: 1.5em;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  color: rgb(255, 255, 255);
+}
+
+
+section {
+  background-image: url('images/renard-5.png');
+  background-size: cover;
+  min-height: 60vh;
+  justify-content: center;
+  margin-left: 17em;
+  margin-right: 17em;
+  margin-bottom: 8em;
+  display: flex;
+  background-attachment: fixed ;
+
+
+
+
+}
